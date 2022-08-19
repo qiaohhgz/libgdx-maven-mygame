@@ -23,6 +23,19 @@
 				<version>1.11.0</version>
 			</dependency>
 
+			<dependency>
+				<groupId>com.badlogicgames.gdx</groupId>
+				<artifactId>gdx-box2d</artifactId>
+				<version>1.11.0</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.badlogicgames.gdx</groupId>
+				<artifactId>gdx-box2d-platform</artifactId>
+				<version>1.11.0</version>
+				<classifier>natives-desktop</classifier>
+			</dependency>
+
 			<!-- android-specific dependencies -->
 			<dependency>
 				<groupId>com.badlogicgames.gdx</groupId>
